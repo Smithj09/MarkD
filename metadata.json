@@ -1,0 +1,8 @@
+
+{
+  "name": "OmniMarket Pro",
+  "description": "A production-ready multi-vendor e-commerce marketplace featuring customer browsing, vendor dashboards, admin moderation, and AI-powered product insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
